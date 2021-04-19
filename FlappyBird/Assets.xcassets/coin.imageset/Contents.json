@@ -6,11 +6,12 @@
       "scale" : "1x"
     },
     {
+      "filename" : "こいん.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "こいん.png",
+      "filename" : "こいん-2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
